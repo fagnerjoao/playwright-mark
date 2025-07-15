@@ -1,0 +1,8 @@
+# Arquivos de build da aplicação web
+/build
+/dist
+/.output
+/.next
+
+# Logs específicos da aplicação
+*.log

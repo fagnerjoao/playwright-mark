@@ -1,0 +1,6 @@
+# Arquivos de build da API (se usar TypeScript/Babel)
+/dist
+/build
+
+# Logs específicos da API
+*.log
